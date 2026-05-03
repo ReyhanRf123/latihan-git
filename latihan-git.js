@@ -27,3 +27,8 @@ const square = (a , b) => {
     return a*b;
 }
 console.log(square(2,6));
+
+const sin = (integer) => {
+    return Math.sin(integer);
+}
+console.log(sin(5));
