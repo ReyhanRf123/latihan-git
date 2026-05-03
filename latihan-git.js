@@ -18,10 +18,10 @@ console.log('staging area')
 console.log('local commit area')
 
 
-const divide = (a , b) => {
+const bagi = (a , b) => {
     return a/b;
 }
-console.log(divide(4,2));
+console.log(bagi(4,2));
 
 const square = (a , b) => {
     return a*b;
