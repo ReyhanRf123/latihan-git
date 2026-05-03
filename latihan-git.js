@@ -37,3 +37,8 @@ const cos = (integer) => {
     return Math.cos(integer);
 }
 console.log(cos(4));
+
+const tan = (integer) => {
+    return Math.tan(integer);
+}
+console.log(tan(2));
