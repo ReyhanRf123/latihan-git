@@ -12,3 +12,5 @@ function multiply(a , b){
 console.log(add(a,b))
 console.log(multiply(a,b))
 console.log('staging')
+console.log('staging')
+console.log('stage')
