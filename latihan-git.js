@@ -16,3 +16,9 @@ console.log('staging')
 console.log('stage')
 console.log('staging area')
 console.log('local commit area')
+
+
+const divide = (a , b) => {
+    return a/b;
+}
+console.log(divide(4,2));
