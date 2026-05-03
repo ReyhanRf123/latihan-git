@@ -32,3 +32,8 @@ const sin = (integer) => {
     return Math.sin(integer);
 }
 console.log(sin(5));
+
+const cos = (integer) => {
+    return Math.cos(integer);
+}
+console.log(cos(4));
