@@ -1,6 +1,8 @@
 let a = 5
 let b = 7
 
-let c = a + b
+const add = function(a , b) {
+    return a + b
+}
 
-console.log(c)
+console.log(add(a,b))
