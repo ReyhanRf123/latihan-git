@@ -22,3 +22,8 @@ const divide = (a , b) => {
     return a/b;
 }
 console.log(divide(4,2));
+
+const square = (a , b) => {
+    return a*b;
+}
+console.log(square(2,6));
